@@ -48,7 +48,7 @@ real money and real traffic — usually solo, from schema to checkout to the ad 
 
 <p align="center"><b>Web & commerce</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,shopify,figma,threejs" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,figma,threejs" />
 </p>
 
 <p align="center"><b>Also shipped with</b></p>
@@ -83,11 +83,7 @@ Self-built tracking throughout: GA4, GTM, server-side events.
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lpecom&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lpecom&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpecom&layout=compact&theme=vue-dark&hide_border=true&langs_count=10&count_private=true&exclude_repo=gswitchgames.github.io,Moralis-Tutorials" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=lpecom&theme=vue-dark&hide_border=true&type=png" alt="GitHub Streak" />
 
 </div>
 
