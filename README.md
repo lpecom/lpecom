@@ -80,7 +80,7 @@ Self-built tracking throughout: GA4, GTM, server-side events.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lpecom&theme=vue-dark&hide_border=true&type=png" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lpecom)](https://git.io/streak-stats)
 
 </div>
 
