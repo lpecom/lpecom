@@ -25,7 +25,7 @@
 | **Checkout Aurion** | Multi-tenant checkout SaaS with an MCP server exposing 100+ admin tools. |
 | **AutoAprova** | Production WhatsApp sales agent built on LangGraph. |
 | **Navig** | Operations platform, 1,659 commits. |
-| **911 Car Services ERP** | Operations system for a paying client. |
+| **911 Car Services ERP** | Operations system for a Premium garage. |
 
 <br>
 
