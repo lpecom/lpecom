@@ -13,9 +13,6 @@
 
 <hr>
 
-Founder and engineer at **Aurion Group LLC** (Dublin). I ship end-to-end products that handle
-real money and real traffic — usually solo, from schema to checkout to the ad account driving it.
-
 **30+ digital products shipped in 2026**, most of them handling money or traffic.
 
 <br>
